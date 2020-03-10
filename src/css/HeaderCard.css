@@ -1,0 +1,36 @@
+.card-style {
+  width: 25rem;
+  border: none;
+}
+
+.card-subtitle-style {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #424f65 !important;
+}
+
+.card-title-style {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #051324 !important;
+}
+
+.card-text-style {
+  color: #031327;
+}
+
+.card-button {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.1rem;
+  padding: 0.7em 1.3em;
+  border-radius: 3px;
+  border: none;
+  background-color: #424f65;
+}
+
+.card-button:hover,
+.card-button:focus {
+  background-color: #606f88;
+}

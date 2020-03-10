@@ -1,0 +1,25 @@
+.bg-dark {
+  background-color: #17283d !important;
+  background-color: transparent !important;
+  padding: 0.8em 2em;
+}
+
+.nav-link {
+  color: #fff;
+  transition: all linear 0.2s;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #5086c9;
+}
+
+.darkNav {
+  background-color: #17283d !important;
+  transition: all linear 0.3s;
+}
+
+.transparentNav {
+  background-color: transparent !important;
+  transition: all linear 0.3s;
+}

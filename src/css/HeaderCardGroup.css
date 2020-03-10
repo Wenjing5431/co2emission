@@ -1,0 +1,61 @@
+.group-data-style {
+  background-color: #2b2e32 !important;
+  height: 90px;
+  border-radius: 0;
+  border: none;
+  -webkit-box-shadow: 12px 13px 118px -24px rgba(150, 150, 150, 0.6);
+  -moz-box-shadow: 12px 13px 118px -24px rgba(150, 150, 150, 0.6);
+  box-shadow: 12px 13px 118px -24px rgba(0, 0, 0, 0.6);
+}
+
+.group-data-body {
+  padding: 0;
+  color: #fff;
+}
+
+.climate-data-content {
+  position: absolute;
+  padding: 0.8rem 1rem 0.7rem 1.5rem;
+  height: 90px;
+}
+
+.data-overlay {
+  position: absolute;
+  top: 0;
+  width: 98.5%;
+  background-color: #676766;
+  transform: skew(-8deg);
+  height: 88px;
+}
+
+.data-title-style {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.arrow-style {
+  display: inline-block;
+  width: 20%;
+}
+
+.arrow-style img {
+  margin-top: -15px;
+}
+
+.data-style {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 300;
+  margin-top: -10px;
+  margin-left: -10px;
+}
+
+.unit-style {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 0.7rem;
+  font-weight: 300;
+  margin-left: 6px;
+}
