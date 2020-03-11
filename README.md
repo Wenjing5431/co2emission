@@ -1,8 +1,10 @@
 # Carbon Dixocide Emissions - Data Visualization
 
 
-- Use the map chart to
-![](dashboard_1.gif)
+- Use the map chart to;
 
+![data-1-gif](data_visualization_1.gif)
 
-![](dashboard_2.gif)
+- Allow users to; 
+
+![data-2-gif](data_visualization_2.gif)
