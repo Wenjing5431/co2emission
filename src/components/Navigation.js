@@ -47,7 +47,12 @@ class Navigation extends Component {
             &nbsp; Carbon Dioxide Emissions
           </Navbar.Brand>
           <Navbar.Collapse className="mr-auto justify-content-end">
-            <Nav.Link href="#features">View Code On Github</Nav.Link>
+            <Nav.Link
+              href="https://github.com/Wenjing5431/co2emission"
+              target="_blank"
+            >
+              View Code On Github
+            </Nav.Link>
           </Navbar.Collapse>
         </Navbar>
       </div>
