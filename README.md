@@ -1,8 +1,8 @@
 # Carbon Dixocide Emissions - Data Visualization
 
-With the use of D3.js, this [DEMO](https://determined-lichterman-22a68b.netlify.com/) visualizes how CO2 emissions by country has changed in 21 years and also shows the inequality in emissions across the world.
+With the use of D3.js, this [DEMO](https://determined-lichterman-22a68b.netlify.com/) visualizes how CO2 emissions by country have changed in 21 years and also shows the inequality in emissions across the world.
 
-- The map chart visualizes CO2 emissions by country and by year. Users can adjust the year and adjust to represent emissions or emissions per capita.
+- The map chart visualizes CO2 emissions by country and by year. Users can adjust the year and choose to represent emissions or emissions per capita.
 
 ![data-1-gif](data_visualization_1.gif)
 
